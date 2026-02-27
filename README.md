@@ -39,5 +39,3 @@ e utiliza LEDs coloridos para indicar o nível de luminosidade atual.
 
 ---
 
-## Conexões
-
